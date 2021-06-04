@@ -4,7 +4,7 @@ Uses neural style transfer to change the art of an image to the beat of the musi
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/TYGsgMLsVu0/0.jpg)](http://www.youtube.com/watch?v=TYGsgMLsVu0 "Deep Style Beats")
 
 #### Acknowledgements
-The style transfer code comes from [this repo](https://raw.githubusercontent.com/ryanwongsa/Real-time-multi-style-transfer/master/README.md). <br>
+The style transfer code comes from [this repo](https://github.com/ryanwongsa/Real-time-multi-style-transfer). <br>
 The original paper is [A LEARNED REPRESENTATION FOR ARTISTIC STYLE](https://arxiv.org/pdf/1610.07629.pdf) (Vincent Dumoulin & Jonathon Shlens & Manjunath Kudlur).
 
 #### My contribution
